@@ -1,12 +1,14 @@
-## Hi there 👋
+# USS Watson
 
-<!--
+Hello! We are team **USS Watson**. The name was made when we saw a road sign that said "Watson" on our drive down to [Hack Midwest](https://hackmidwest.com/). Sadly Watson was taken so we brainstormed and landed on `USS` as a prefix.
 
-**Here are some ideas to get you started:**
+## Team Members
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Alex ([curtainman](https://github.com/curtainman/))
+- Anton ([anton-3](https://github.com/anton-3/))
+- Blaine ([blaine-t](https://github.com/blaine-t/))
+- Louis ([WalterOfNone](https://github.com/WalterOfNone/))
+
+## Projects
+
+- LISA (WIP)
