@@ -11,7 +11,7 @@ Hello! We are team **USS Watson**. The name was made when we saw a road sign tha
 - $${\color{008b8b}Alex}$$ ([curtainman](https://github.com/curtainman/))
 - $${\color{c8c8ff}Anton}$$ ([anton-3](https://github.com/anton-3/))
 - $${\color{ff2400}Blaine}$$ ([blaine-t](https://github.com/blaine-t/))
-- $${\color{ef5350}L\color{ab47bc}o\color{651fff}u\color{3949ab}i\color{2196f3}s}$$ ([WalterOfNone](https://github.com/WalterOfNone/))
+- $${\color{E40303}L\color{FF8C00}o\color{FFED00}u\color{008026}i\color{004CFF}s \quad \color{732982}  Q.}$$ ([WalterOfNone](https://github.com/WalterOfNone/))
 
 ## Projects
 
