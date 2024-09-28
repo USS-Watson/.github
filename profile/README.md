@@ -8,10 +8,10 @@ Hello! We are team **USS Watson**. The name was made when we saw a road sign tha
 
 ## Team Members
 
-- <span style="color:#008b8b;">Alex</span> ([curtainman](https://github.com/curtainman/))
-- <span style="color:#c8c8ff;">Anton</span> ([anton-3](https://github.com/anton-3/))
-- <span style="color:#FF2400;">Blaine</span> ([blaine-t](https://github.com/blaine-t/))
-- <span style="color:#ef5350;">L</span><span style="color:#ab47bc;">o</span><span style="color:#651fff;">u</span><span style="color:#3949ab">i</span><span style="color:#2196f3;">s</span> ([WalterOfNone](https://github.com/WalterOfNone/))
+- $${\color{008b8b}Alex}$$ ([curtainman](https://github.com/curtainman/))
+- $${\color{c8c8ff}Anton}$$ ([anton-3](https://github.com/anton-3/))
+- $${\color{ff2400}Blaine}$$ ([blaine-t](https://github.com/blaine-t/))
+- $${\color{ef5350}L\color{ab47bc}o\color{651fff}u\color{3949ab}i\color{2196f3}s}$$ ([WalterOfNone](https://github.com/WalterOfNone/))
 
 ## Projects
 
