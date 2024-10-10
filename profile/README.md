@@ -15,4 +15,4 @@ Hello! We are team **USS Watson**. The name was made when we saw a road sign tha
 
 ## Projects
 
-- LISA (WIP)
+- [LISA](https://github.com/USS-Watson/lisa)
